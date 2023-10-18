@@ -12,3 +12,6 @@ Extended commands [n]:
 Sweep range of sizes [n]: 
 Type escape sequence to abort.
 ```
+```
+PC1# ping 192.168.4.22 repeat 10000000
+```
